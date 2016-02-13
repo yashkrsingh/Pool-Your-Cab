@@ -3,7 +3,6 @@
 Project done under the course CSD202 "Introduction to Database Management Systems".
 
 ## Project Overview 
---------------------
 
 We tried to develop a cab management system for students where he gets an option to pool his cab with
 some other person having same destination, date of journey and other factors. Technologies used are: 
